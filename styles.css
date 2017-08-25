@@ -1,0 +1,97 @@
+
+
+body{
+    color: white;
+}
+
+*{
+    margin: 0;
+}
+.container{
+   background-image: url("./wideopen-icons/img/wot-masthead-dark.jpg");
+   background-color: red;
+   background-image: no-repeat;
+   height: 800px;
+   width: auto;
+
+}
+
+.navbar-header {
+    display: block;
+}
+
+li {
+        display: inline-block;
+        margin-left: 150px;
+        font-size: 26px;
+        font-weight: bold;
+        align-self: auto;
+        margin: 10px;
+        
+        }
+        .navbar-header{
+            position: top;
+            text-align: right;
+        }
+        .small-img{
+            width: 200px;
+            height: auto;
+            margin-right: 300px;
+            margin-top: 70px;
+            
+        }
+
+        .column{
+            font-family: 'Lato', 'Lucida Sans', 'Lucida Sans Regular';
+            text-align: center;
+        }
+
+        .containercenter1{
+            font-size: 26px;
+            margin-top: 100px;
+            margin-right: 900px;
+            
+        }
+        .containercenter2{
+            font-size: 200px;
+            letter-spacing: 1px;
+           
+        }
+        .containercenter3{
+            display: inline-block;
+            font-size: 15px;
+            margin-bottom: 100px;
+
+        }
+
+        .btn{
+            background-color: greenyellow;
+            height: 50px;
+            width: 600px;
+            text-align: center;
+            color: white;
+            font-size: 30px;
+            margin-left: 300px;
+            
+            border-radius: 25px;
+            font-weight: 600px;
+            margin-bottom: 50px;
+        }
+        
+        .containerwhite{
+            height: 600px;
+            width: auto;
+            background-color: white;
+        }
+        .containergray{
+            height: 700px;
+            width: auto;
+            background-color: #D4C4C4;
+        }
+        
+        
+
+
+
+
+        
