@@ -11,6 +11,7 @@ body{
    background-image: url("./wideopen-icons/img/wot-masthead-dark.jpg");
    background-color: red;
    background-image: no-repeat;
+   background-size: cover;
    height: 800px;
    width: auto;
 
@@ -72,7 +73,7 @@ li {
             color: white;
             font-size: 30px;
             margin-left: 300px;
-            
+            border: 1px solid greenyellow;
             border-radius: 25px;
             font-weight: 600px;
             margin-bottom: 50px;
@@ -88,7 +89,10 @@ li {
             width: auto;
             background-color: #D4C4C4;
         }
-        
+        .containertext{
+            color: black;
+            text-align: center;
+        }        
         
 
 
